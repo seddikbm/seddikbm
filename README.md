@@ -2,97 +2,96 @@
 
 <h1>Hey, I'm Seddik! 👋</h1>
 
-<a href="https://github.com/seddikbm">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1200&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=AI+%26+Data+Science+Engineering+Student;Exploring+LLMs%2C+RAG+%26+AI+Agents;Turning+AI+%26+Data+into+Real-World+Impact" alt="Animated introduction: AI and Data Science Engineering Student" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=450&amp;size=20&amp;duration=3300&amp;pause=1200&amp;color=8CCFA6&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Curious+about+how+things+work;Building+AI+that+people+can+use" alt="Curious about how things work · Building AI that people can use" />
 
-<p><strong>Double-Degree Engineering Student · ENSAM Rabat 🇲🇦 × EILCO 🇫🇷</strong></p>
+<p><strong>AI &amp; Data Science Engineering Student</strong><br />Double Degree · ENSAM Rabat 🇲🇦 × EILCO 🇫🇷</p>
 
-<a href="https://github.com/seddikbm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-<a href="mailto:boumhamdiseddik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-
-</div>
-
----
-
-### <img src="https://img.shields.io/badge/01-ABOUT-2F81F7?style=flat-square" alt="About" /> A bit about me
-
-I'm an engineering student in **Computer Engineering at EILCO (France)** and **Data Science & Artificial Intelligence at ENSAM Rabat (Morocco)**, following a double-degree pathway.
-
-I love connecting **intelligent models** with **useful software**: exploring data, designing AI workflows, developing APIs, and making the results accessible through real interfaces.
-
-- 🧠 Exploring **LLM applications, RAG, AI agents, NLP, and computer vision**.
-- ⚙️ Interested in **end-to-end AI systems**, not just isolated notebooks.
-- 🎯 Learning to make models and agents **reliable, useful, and measurable**.
-- 🤝 Always up for exchanging ideas and collaborating on meaningful projects.
-
-### 🧰 Tech stack
-
-<div align="center">
-
-**AI · Data Science · Computer Vision**
-
-<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,opencv&amp;theme=dark" alt="Python, TensorFlow, Scikit-learn, OpenCV" />
-
-**Backend · Frontend · Databases · Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=java,spring,fastapi,react,angular,js,ts,postgres,mysql,docker,git,linux&amp;perline=6&amp;theme=dark" alt="Java, Spring Boot, FastAPI, React, Angular, JavaScript, TypeScript, PostgreSQL, MySQL, Docker, Git, Linux" />
-
-**AI engineering concepts I work with**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Workflows-243447?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Semantic_Retrieval-2F81F7?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Search-6A5ACD?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-Text_Analytics-0D9488?style=flat-square)
+<a href="https://www.linkedin.com/in/seddik-boumhamdi-46727730a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:boumhamdiseddik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<a href="https://github.com/seddikbm"><img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 
 </div>
 
-### 🚀 Featured projects
+👋 A little about me
+
+I'm the kind of person who doesn't stop at "it works." I want to understand why — and what would make it better.
+
+🔭 Building AI-powered applications and practical machine-learning projects.
+
+🤝 Open to collaborating on open-source AI, LLMs, and computer vision.
+
+🌱 Currently exploring AI agents, RAG, and LLM applications.
+
+🧰 Tech stack · by domain
+
+Domain
+
+Tools & technologies
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=py,java,ts,js,c&amp;theme=dark" alt="Python, Java, TypeScript, JavaScript, C" height="38" />
+
+AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&amp;theme=dark" alt="PyTorch, TensorFlow, Scikit-learn, OpenCV" height="38" /> 
+ <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&amp;logo=keras&amp;logoColor=white" alt="Keras" />
+
+LLMs & AI Agents
+
+<img src="https://img.shields.io/badge/LangGraph-2B3A42?style=flat-square" alt="LangGraph" /> <img src="https://img.shields.io/badge/RAG-326C78?style=flat-square" alt="Retrieval-Augmented Generation" /> <img src="https://img.shields.io/badge/ChromaDB-6256A8?style=flat-square" alt="ChromaDB" />
+
+Backend & Web
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,angular,react,bootstrap,html,css&amp;theme=dark" alt="Spring Boot, FastAPI, Angular, React, Bootstrap, HTML, CSS" height="38" /> 
+ <img src="https://img.shields.io/badge/JWT-303030?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&amp;logo=hibernate&amp;logoColor=white" alt="Hibernate" />
+
+Databases & Messaging
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&amp;theme=dark" alt="PostgreSQL, MySQL, MongoDB, SQLite" height="38" /> 
+ <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&amp;logo=neo4j&amp;logoColor=white" alt="Neo4j" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&amp;logo=rabbitmq&amp;logoColor=white" alt="RabbitMQ" />
+
+Dev Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux&amp;theme=dark" alt="Docker, Git, Linux" height="38" />
+
+🚀 Selected work
+
+Project
+
+What it does
+
+Explore
+
+🤖 RH Agent
+
+A human-in-the-loop recruitment assistant for CV matching and AI-assisted analysis using RAG and agent workflows.
+
+Code
+
+🔣 AI Math Translation · EN ↔ AR
+
+Explores scientific and mathematical translation between English and Arabic, with special attention to equations and terminology.
+
+Code
+
+🏢 IT Asset Management
+
+A full-stack platform for equipment inventory, assignments, maintenance tickets, interventions, and reporting.
+
+Backend · Frontend
+
+🎓 Certification Hub
+
+A personal collection of certificates, courses, and learning milestones.
+
+Explore
+
+📊 GitHub stats
 
 <div align="center">
-  <a href="https://github.com/seddikbm/RH_agent">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=seddikbm&amp;repo=RH_agent&amp;theme=transparent&amp;hide_border=false&amp;title_color=2F81F7" alt="RH Agent repository card" />
-  </a>
-  <a href="https://github.com/seddikbm/park_info_backend">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=seddikbm&amp;repo=park_info_backend&amp;theme=transparent&amp;hide_border=false&amp;title_color=2F81F7" alt="IT Asset Management repository card" />
-  </a>
-</div>
 
-- **🤖 [RH Agent — AI Recruitment Assistant](https://github.com/seddikbm/RH_agent)** — A human-in-the-loop recruitment assistant combining RAG-based CV ranking with a LangGraph multi-agent analysis workflow. `FastAPI` `LangGraph` `ChromaDB` `React`
-- **🏢 [IT Asset Management Platform](https://github.com/seddikbm/park_info_backend)** — Inventory, equipment assignment, maintenance tickets, and reporting for an administrative organization. [Backend](https://github.com/seddikbm/park_info_backend) · [Frontend](https://github.com/seddikbm/gestion_park_info_frontend) · `Spring Boot` `Angular` `JWT` `MySQL`
-- **📈 [Predictive Maintenance](https://github.com/seddikbm/mechanical_maintenance_prediction)** — Estimating mining-equipment downtime using historical records, feature engineering, and XGBoost. `Python` `XGBoost` `FastAPI`
-- **🎬 [Series Analysis with NLP](https://github.com/seddikbm/analyze_series_with_NLP)** — Exploring thematic classification and character networks with an interactive Gradio prototype. `Python` `NLP` `Gradio`
-
-<sub>Also explored: football video analytics with YOLOv8, multi-object tracking, optical flow, and OpenCV.</sub>
-
-### 📊 GitHub at a glance
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=seddikbm&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=2F81F7&amp;icon_color=2F81F7" alt="Seddik's GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seddikbm&amp;layout=compact&amp;langs_count=6&amp;size_weight=0.5&amp;count_weight=0.5&amp;theme=transparent&amp;hide_border=true&amp;title_color=2F81F7" alt="Most-used languages across public repositories" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=seddikbm&amp;theme=github-compact&amp;hide_border=true" alt="GitHub contribution activity graph" />
-
-<sub>These cards use public GitHub data and third-party renderers. If a renderer is temporarily rate-limited, the native GitHub contribution graph remains available on my profile.</sub>
-
-</div>
-
-### 🎓 Education & learning
-
-- **EILCO, France:** Computer Engineering — double-degree program (since 2026).
-- **ENSAM Rabat, Morocco:** Engineering in Data Science & Artificial Intelligence (since 2024).
-- **Certifications:** Python for Data Science (IBM) · Machine Learning Specialization (Stanford University / DeepLearning.AI).
-
-### ☕ Let's connect
-
-I enjoy discussing practical AI, interesting datasets, and projects that can make a difference. Feel free to look around or reach out!
-
-<div align="center">
-
-<a href="https://github.com/seddikbm"><img src="https://img.shields.io/badge/Explore_my_code-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore GitHub" /></a>
-<a href="mailto:boumhamdiseddik@gmail.com"><img src="https://img.shields.io/badge/Say_hello-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send email" /></a>
-
-*Turning AI & Data into Real-World Impact.*
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=seddikbm&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="GitHub activity, commits, and stars" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=seddikbm&amp;layout=compact&amp;langs_count=6&amp;theme=github_dark&amp;hide_border=true" alt="Most-used languages in public repositories" />
 
 </div>
